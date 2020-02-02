@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "836350308127",
+    "firebase_url": "https://flutter-firebase-tutoria-95e94.firebaseio.com",
+    "project_id": "flutter-firebase-tutoria-95e94",
+    "storage_bucket": "flutter-firebase-tutoria-95e94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836350308127:android:ea14d678194f4a5391ca2a",
+        "android_client_info": {
+          "package_name": "com.wahyutrip.codemagic_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836350308127-1dagq870gr4ph7r6f3kt1p7peaa8lu1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wahyutrip.codemagic_firebase_auth",
+            "certificate_hash": "f19ada6427700d16c991be26835d1e7ae432d4bc"
+          }
+        },
+        {
+          "client_id": "836350308127-7kstkp7jsqjuhkuotoeqhhqueqb7tt7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJlmoBMjzG1NsJofOMF6HlJ4ekckL_pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836350308127-7kstkp7jsqjuhkuotoeqhhqueqb7tt7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836350308127:android:7467ba9380f4b99291ca2a",
+        "android_client_info": {
+          "package_name": "com.wahyutrip.flutterpub_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836350308127-7kstkp7jsqjuhkuotoeqhhqueqb7tt7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJlmoBMjzG1NsJofOMF6HlJ4ekckL_pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836350308127-7kstkp7jsqjuhkuotoeqhhqueqb7tt7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836350308127:android:5f58c15da27ab06291ca2a",
+        "android_client_info": {
+          "package_name": "com.wahyutrip.heartbeat_task_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836350308127-573encto3hi727v8ncuhdvm4ne65si1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wahyutrip.heartbeat_task_firebase",
+            "certificate_hash": "f19ada6427700d16c991be26835d1e7ae432d4bc"
+          }
+        },
+        {
+          "client_id": "836350308127-7kstkp7jsqjuhkuotoeqhhqueqb7tt7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJlmoBMjzG1NsJofOMF6HlJ4ekckL_pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836350308127-7kstkp7jsqjuhkuotoeqhhqueqb7tt7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
